@@ -25,7 +25,7 @@ SECRET_KEY = 'n0r*sqep4d3r@ym*+84v%9+witgfm6z4j9u-h2@9wqs_%=#p-h'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'echomyriad.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', '.pythonanywhere.com']
 
 
 # Application definition
