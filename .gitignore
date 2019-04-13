@@ -1,0 +1,10 @@
+#Nyki Lundgren
+#4/13/2019
+
+*.pyc
+*~
+__pycache__
+myvenv
+db.sqlite3
+/static
+.DS_Store
